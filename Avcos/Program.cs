@@ -6,7 +6,7 @@ namespace Avcos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! from feature branch again");
+            Console.WriteLine("Hello World! from feature branch");
         }
     }
 }
